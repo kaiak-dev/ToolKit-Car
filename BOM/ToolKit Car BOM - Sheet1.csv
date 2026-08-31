@@ -1,0 +1,21 @@
+Item Name,Qty,Price (total) (USD),Item link,Notes
+esp32 ,1,$19.53,https://www.amazon.com/gp/product/B0GGH9DQBY/ref=ewc_pr_img_6?smid=A1ESN1Q45QHIQN&th=1,This is what will be used to power and process everything
+Skateboard Bearings,1,$6.99,https://www.amazon.com/gp/product/B07R7PR72H/ref=ewc_pr_img_2?smid=A3P7CU92KFCYL&psc=1,This is what will be used to allow the wheels to move freely
+Diann 4pcs TT Motors,1,$6.99,https://www.amazon.com/gp/product/B0BR7S2TRY/ref=ewc_pr_img_1?smid=A2L2YSK9NV3SSU&th=1,This is what will be used to move the rails and toolkit
+esp32 Camera Module,1,$17.09,https://www.amazon.com/gp/product/B0FVXXDQRQ/ref=ewc_pr_img_3?smid=A1VTL661FOEJB1&th=1,This is what will be used to send telemetry data to the tracking software and esp32
+Breadboard Jumper Cables,1,$6.98,https://www.amazon.com/gp/product/B01EV70C78/ref=ewc_pr_img_4?smid=A2WWHQ25ENKVJ1&th=1 ,This is what will be used to transfer power to the motors(the jumper cables are used because the esp32 is solderless)
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+Total Price (USD):,$57.58,,,
