@@ -14,20 +14,25 @@ Toolkit car is able to track anyone within a room using a esp32 camera module an
 ***View project here for more frequent updates:https://stardance.hackclub.com/projects/52883***
 
 ## How to print it?
+*Please only download the most recent version of the .step files*
 | CAD files | Do I print it? |
 | -------- | ------- |
 | Concept.step| *No* |
+| ConceptV2.step| *No* |
 | Casing and wheel mount part studio.step | *No* |
-| **esp32 casing printing assembly.step** | **Yes** |
+| Casing and wheel part studioV2.step | *No* |
+| esp32 casing printing assembly.step | *No* |
 | Rail part studio.step| *No* |
-| **Rail printing assembly.step**| **Yes** |
-| **Wheel printing assembly.step**| **Yes** |
+| Wheel printing assembly.step| *No*|
+| **esp32 casing printingV2.step** | **Yes** |
+| **Wheel printingV2.step**| **Yes** |
+ |**Rail printing assembly.step**| **Yes** |
 
 | CAD files | What type of filament do I use? |
 | -------- | ------- |
-| esp32 casing printing assembly.step | **PET-G*** |
+| esp32 casing printingV2.step | **PET-G*** |
 | Rail printing assembly.step| **PET-G*** |
-| Wheel printing assembly.step| TPU |
+| Wheel printingV2.step| TPU |
 
 _*PET-G can be replaced with either ABS or PLA. **PET-G is recommended**._
 
@@ -62,6 +67,9 @@ _*Prusa: https://help.prusa3d.com/article/tree-supports_1515_
 
 ## Concept and Design
 The images below show the concepts of **ToolKit Car**. This can help with **Assembly** later on!
+
+*These concepts are the original ones, there are more updated versions of the concepts. **They are only concepts it does not matter if you have the latest one***
+
 <img width="1959" height="583" alt="Screenshot_20260830_202002" src="https://github.com/user-attachments/assets/2de86980-265b-4238-a2cc-437a3d7fb238" />
 Above is the main concept design of **ToolKit Car**. This is what you can see assembled in **Concept.step** *(open the file for more angles of the concept)*. This is what an assembled **ToolKit Car** should resemble! 
 <img width="2376" height="1374" alt="Screenshot_20260830_175007" src="https://github.com/user-attachments/assets/eed695c9-d571-4851-aa00-76e55c848dd0" />
