@@ -4,12 +4,16 @@
 I've always loved to build things, from desks to computers, to everything in between. One thing that you will always need when building something are tools. Tools can often get lost or misplaced, even in a small workspace! I have experienced this one too many times, so I decided to build something to fix that! 
 Toolkit car is able to track anyone within a room using a esp32 camera module and an esp32. The esp32 takes the data from the camera, and using a script(I have not yet coded) will send data to 4 motors and allow it to move!
 
+## Why did you make ToolKit-Car?
+
+I have a very cluttered workspace, and constantly have to move stuff around just so I can have what I need for the many different projects I'm working on. This however results in me losing so much stuff, especially my tools, I once forgot where I put my soldering iron and could not find it for 3 days. ToolKit-Car was built to help at least fix that aspect of my life by being able to hold my tools for me, and bring them to me just to make sure I don't spend 30 minutes looking for a tape measure and not being able to find and then going all over the house to find it, and then walking back to my room in defeat just to see it lying on my bed(its personal). I thought to myself one day that I really needed a project like this, and I decided to build it.
+
 ## Current Progress!
 - [x] All CAD and Design
 - [ ] Assembly
 - [ ] 3-D printing
 - [ ] StarDance funding
-- [ ] Firmware
+- [X] Firmware
       
 ***View project here for more frequent updates:https://stardance.hackclub.com/projects/52883***
 
@@ -59,9 +63,12 @@ _*Prusa: https://help.prusa3d.com/article/tree-supports_1515_
 ***(Will update when assembly IRL is finished)***
 
 ## Firmware!
-- [ ] Firmware steps finished!
-- [ ] Firmware in README finished!
-- [ ] Coding of firmware finished!
+*As of 9/29/2026, the firmware draft has been completed but not yet tested or adjusted for the actual ToolKit Car*
+1. Download the latest firmware files
+2. Upload the firmware files to a USB thumb drive/SD card or equivalent
+3. Flash the firmware to the raspberry pi
+
+- [ ] Firmware finalized!
 
 ***(Will update when firmware coding is finished)***
 
