@@ -2,7 +2,7 @@
 ***This is a hardware project from the StarDance challenge by Hack club.(https://stardance.hackclub.com/projects/52883)***
 
 I've always loved to build things, from desks to computers, to everything in between. One thing that you will always need when building something are tools. Tools can often get lost or misplaced, even in a small workspace! I have experienced this one too many times, so I decided to build something to fix that! 
-Toolkit car is able to track anyone within a room using a esp32 camera module and an esp32. The esp32 takes the data from the camera, and using a script(I have not yet coded) will send data to 4 motors and allow it to move!
+Toolkit car is able to track anyone within a room using a USB webcam and an raspberry pi 4 model b. The raspberry pi takes the data from the camera, and using a YOLO python script will send commands to 4 motors and allow it to move!
 
 ## Why did you make ToolKit-Car?
 
@@ -18,33 +18,37 @@ I have a very cluttered workspace, and constantly have to move stuff around just
 ***View project here for more frequent updates:https://stardance.hackclub.com/projects/52883***
 
 ## How to print it?
-*Please only download the most recent version of the .step files*
+*Please only download the most recent version of the .step files (currently V3)*
 | CAD files | Do I print it? |
 | -------- | ------- |
 | Concept.step| *No* |
-| ConceptV2.step| *No* |
-| Casing and wheel mount part studio.step | *No* |
-| Casing and wheel part studioV2.step | *No* |
-| esp32 casing printing assembly.step | *No* |
+| Casing and wheel part studio.step | *No* |
+| raspberry pi casing printing assembly.step | *No* |
 | Rail part studio.step| *No* |
 | Wheel printing assembly.step| *No*|
-| **esp32 casing printingV2.step** | **Yes** |
-| **Wheel printingV2.step**| **Yes** |
+| Raspberry pi 4 Model B.stp| *No*|
+| L298N Driver.step| *No*|
+| **raspberry pi casing printing.step** | **Yes** |
+| **Wheel printing.step**| **Yes** |
  |**Rail printing assembly.step**| **Yes** |
 
 | CAD files | What type of filament do I use? |
 | -------- | ------- |
-| esp32 casing printingV2.step | **PET-G*** |
+| raspberry pi casing printingV2.step | **PET-G*** |
 | Rail printing assembly.step| **PET-G*** |
-| Wheel printingV2.step| TPU |
+| Wheel printing.step| TPU |
 
-_*PET-G can be replaced with either ABS or PLA. **PET-G is recommended**._
+_*PET-G can be replaced with other filaments. **PET-G is recommended**._
 
-### Printing Steps!
+
+### Printing/Slicing Steps!
 1. Download the .step files listed above.
-2. Import the files into a splicer and use **organic/tree supports*** for any overhanging pieces.
-3. Glue the build plate using whatever glue is available.
-4. Print each of the assemblies separately, or together.
+2. Import the files into a slicer
+3. Auto orient the files to the plate and ensure none are touching
+4. Under supports select **organic tree supports**
+5. Select slice and send to printer 
+6. Glue the build plate using whatever glue is available.
+7. Print each of the assemblies separately, or together.
 
 _*Creality: https://wiki.creality.com/en/software/update-released/Support/support-settings_
 
