@@ -26,7 +26,7 @@ I have a very cluttered workspace, and constantly have to move stuff around just
 | raspberry pi casing printing assembly.step | *No* |
 | Rail part studio.step| *No* |
 | Wheel printing assembly.step| *No*|
-| Raspberry pi 4 Model B.stp| *No*|
+| Raspberry pi 4 Model B.step| *No*|
 | L298N Driver.step| *No*|
 | **raspberry pi casing printing.step** | **Yes** |
 | **Wheel printing.step**| **Yes** |
@@ -88,6 +88,11 @@ Above is the bottom angle of the main concept design.
 <img width="1959" height="583" alt="Screenshot_20260830_202002" src="https://github.com/user-attachments/assets/42ac3c0f-d1d1-4718-9432-80e61b2bdee1" />
 Above is, again, the main concept design of **ToolKit Car**. This one has more descriptors if you are ever confused on how **ToolKit Car** works!
 
+# Credits:
+## CAD
+**These files are not mine!!!!! Please check out the original creators, they do a lot of great work!!!**
+https://grabcad.com/library/raspberry-pi-4-with-powerpack-box-1 For raspberry pi 
+https://grabcad.com/library/l298n-stepper-driver-1 For l298N
 
 
 
