@@ -81,12 +81,22 @@ The images below show the concepts of **ToolKit Car**. This can help with **Asse
 
 *These concepts are the original ones, there are more updated versions of the concepts. **They are only concepts it does not matter if you have the latest one***
 
-<img width="1959" height="583" alt="Screenshot_20260830_202002" src="https://github.com/user-attachments/assets/2de86980-265b-4238-a2cc-437a3d7fb238" />
+<img width="1694" height="972" alt="image" src="https://github.com/user-attachments/assets/d90c13e1-0596-4dc7-affa-8051a7e541a9" />
+
 Above is the main concept design of **ToolKit Car**. This is what you can see assembled in **Concept.step** *(open the file for more angles of the concept)*. This is what an assembled **ToolKit Car** should resemble! 
-<img width="2376" height="1374" alt="Screenshot_20260830_175007" src="https://github.com/user-attachments/assets/eed695c9-d571-4851-aa00-76e55c848dd0" />
+<img width="1694" height="972" alt="image" src="https://github.com/user-attachments/assets/b9d93a2a-0c9d-4edf-89b4-5bd556d8618f" />
+<img width="1694" height="972" alt="image" src="https://github.com/user-attachments/assets/186d1deb-0e23-4535-8cd3-7360d76347a1" />
+
+
 Above is the bottom angle of the main concept design. 
 <img width="1959" height="583" alt="Screenshot_20260830_202002" src="https://github.com/user-attachments/assets/42ac3c0f-d1d1-4718-9432-80e61b2bdee1" />
 Above is, again, the main concept design of **ToolKit Car**. This one has more descriptors if you are ever confused on how **ToolKit Car** works!
+Below are pictures of the various CAD assemblies for the parts of Toolkit Car!
+<img width="1520" height="1112" alt="image" src="https://github.com/user-attachments/assets/bcba1650-1c69-4910-9635-1d7697c6af5f" />
+<img width="1607" height="1198" alt="image" src="https://github.com/user-attachments/assets/796b5372-d0eb-47af-9d37-1382273ecd9a" />
+<img width="1607" height="1198" alt="image" src="https://github.com/user-attachments/assets/15d7cc73-6f42-4010-9a97-6688d52d9f84" />
+
+
 
 # Credits:
 ## CAD
